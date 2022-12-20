@@ -12,6 +12,8 @@ Customized Rainmeter skins to use on Windows desktops.
 
 [Pixy](https://fontesk.com/pixy-font/) font by [2DFUNS Studio](https://www.behance.net/gallery/58860937/FUNNY-FONTS-COLLECTION/modules/897315783) is an "8-bit pixel typeface designed to back all of that 80s nostalgia. Pixy font supports both Latin and Cyrillic and is perfect for making something look retro cool."
 
-[The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/#author) book by David Thomas and Andrew Hunt has "helped a generation of programmers examine the very essence of software development, independent of any particular language, framework, or methodology" and contains the [100 tips](https://pragprog.com/tips/) which are used as the source material for the quotes skin.
+[The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition) book by David Thomas and Andrew Hunt has "helped a generation of programmers examine the very essence of software development, independent of any particular language, framework, or methodology" and contains the [100 tips](https://pragprog.com/tips/) which are used as the source material for the quotes skin.
+
+[Unsplash](https://unsplash.com/) is used as the source of wallpaper images.
 
 <!-- TODO: Music visualizer -->
