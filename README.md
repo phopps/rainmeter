@@ -17,3 +17,13 @@ Customized Rainmeter skins to use on Windows desktops.
 [Unsplash](https://unsplash.com/) is used as the source of wallpaper images.
 
 <!-- TODO: Music visualizer -->
+
+## Screenshots
+
+![screenshot-dark-1](/screenshots/screenshot-dark-1.png)
+
+![screenshot-dark-2](/screenshots/screenshot-dark-2.png)
+
+![screenshot-light-1](/screenshots/screenshot-light-1.png)
+
+![screenshot-light-2](/screenshots/screenshot-light-2.png)
